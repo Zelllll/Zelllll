@@ -7,6 +7,3 @@
 ## 🔧 Technical Skills
 ### Programming Languages:
 - C, C++, Java, Python, MIPS R4300i Assembly, Bash, GDScript, Visual Basic .NET
-### Development Tools
-- IDEs: Visual Studio Code, Visual Studio, IntelliJ IDEA, CLion, Vim
-- Game Engines: Unreal Engine 5, Godot 4.3
