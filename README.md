@@ -1,5 +1,3 @@
-I’m passionate about software developer, studying computer science, cybersecurity, and game development. I thrive at the intersection of technical challenges and creative problem-solving.
-
 ## 🌟 Featured Projects
 - [Zelda: The Missing Link](https://www.youtube.com/watch?v=n6hdlxgDixE)
 - [Zelda: Spaceworld '97 Experience](https://github.com/z64proto/sw97/blob/master/README.md)
